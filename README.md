@@ -1,4 +1,4 @@
-# CGPDataSetRepo
+# CGP and ICGP DataSet
 dataset of Choice-based Graphical Password CGP and Indexed Choice Based Graphical Password ICGP.
 GP is still not widely utilized in the real world because consumers suffer from multiple login stages and have resorted to the textual password. 
 A novel Choice-Based Graphical Password (CGP) Scheme for Web Applications is proposed. 
